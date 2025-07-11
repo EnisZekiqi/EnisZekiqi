@@ -14,15 +14,12 @@ I’m a web developer who loves to build high-quality websites through clean, ma
 
 ### 🚀 Featured Projects
 
-**Reactify**  
-An open-source collection of reusable, animated React components built for JavaScript & TypeScript 
-🔗 (https://reactify-c4a.pages.dev)  
-📁 (https://github.com/Eniszekiqi/Reactify)
 
-**DevTrove**  
-A Developer tools in one place like API,Articles & Repositories
-🔗 (https://dev-trove.vercel.app)
-📁 (https://github.com/EnisZekiqi/DevTrove)
+**[Reactify](https://reactify-c4a.pages.dev)**  
+An open-source collection of reusable, animated React components built for JavaScript & TypeScript.  
+
+**[DevTrove](https://dev-trove.vercel.app)**  
+A developer tool hub with APIs, articles & repositories — all in one place.  
 
 ---
 
