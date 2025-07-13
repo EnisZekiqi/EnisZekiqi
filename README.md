@@ -6,9 +6,9 @@ I’m a web developer who loves to build high-quality websites through clean, ma
 
 ### 🛠️ Tech Stack
 
-**Languages & Frameworks**: JavaScript (ES6+), TypeScript, React, Next.js, Svelte, Angular  
-**Styling & Design**: CSS3, SASS (SCSS), Tailwind CSS, Framer  
-**Tools**:Framer-Motion, ContextAPI, Zustand, Tanstack Query, Git  
+- **Languages & Frameworks**: JavaScript (ES6+), TypeScript, React, Next.js, Svelte, Angular  
+- **Styling & Design**: CSS3, SASS (SCSS), Tailwind CSS, Framer  
+- **Tools**: Framer Motion, ContextAPI, Zustand, Tanstack Query, Git
 
 ---
 
@@ -25,8 +25,8 @@ A developer tool hub with APIs, articles & repositories — all in one place.
 
 ### 📫 Let’s Connect
 
-🌐 [Portfolio](https://eniszekiqidev.netlify.app)  
-💼 [LinkedIn](https://www.linkedin.com/in/enis-zekiqi-090b692b9/)  
-📧 enis_zekiqi@hotmail.com
+- [Portfolio](https://eniszekiqidev.netlify.app)  
+- [LinkedIn](https://www.linkedin.com/in/enis-zekiqi-090b692b9/)  
+- enis_zekiqi@hotmail.com
 
 
