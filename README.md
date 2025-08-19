@@ -6,9 +6,9 @@ I’m a web developer who loves to build high-quality websites through clean, ma
 
 ### 🛠️ Tech Stack
 
-- **Languages & Frameworks**: JavaScript (ES6+), TypeScript, React, Next.js, Svelte, Angular  
-- **Styling & Design**: CSS3, SASS (SCSS), Tailwind CSS, Framer  
-- **Tools**: Framer Motion, ContextAPI, Zustand, Tanstack Query, Git
+- **Languages & Frameworks**: JavaScript (ES6+), TypeScript, React, Next.js,
+- **Styling & Design**: CSS3, SASS (SCSS), Tailwind CSS, Framer Motion
+- **Tools**: Framer Motion, ContextAPI, Zustand, Tanstack Query, Git , Axios 
 
 ---
 
